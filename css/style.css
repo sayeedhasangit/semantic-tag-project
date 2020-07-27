@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(to right, #7bf2e9, #6454f0);
+}
+.header{
+    background-image: linear-gradient(70deg, #7bf2e9,#6454f0);
+    background-repeat: no-repeat;
+    height: 100%;
+}
+.head{
+    background-image: linear-gradient(70deg, #ffa62e, #ea4d2c);
+    margin: 50px;
+    padding: 40px;
+    border-radius: 30px;
+}
+marquee{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    background-image: linear-gradient(70deg, #f7f0ab, #faf73e);
+    border-radius: 20px;
+    padding: 5px;
+}
+.mainSection{
+    background-image: linear-gradient(70deg, #ffa62e, #ea4d2c);
+    margin: 50px;
+    padding: 40px;
+    border-radius: 30px;
+}
+.text{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+.pText{
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    margin-bottom: 40px;
+}
+dl{
+    font-family: 'Ubuntu', sans-serif;
+}
+dt{
+    text-decoration: underline;
+    font-size: 18px;
+}
+h2{
+    font-family: 'Ubuntu', sans-serif; 
+}
+footer{
+    background-image: linear-gradient(70deg, #ffa62e, #ea4d2c);
+    margin: 50px;
+    padding: 10px;
+    border-radius: 30px;
+    font-family: 'Ubuntu', sans-serif;
+}
+footer p{
+    text-align: center;
+    color: #282828;
+}
+a{
+    text-decoration: none;
+}
